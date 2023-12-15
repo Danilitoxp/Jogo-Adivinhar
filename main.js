@@ -1,3 +1,6 @@
+// Variáveis
+const btnTry = document.querySelector('#btnTry')
+const btnReset = document.querySelector('#btnReset')
 const screen1 = document.querySelector(".screen1")
 const screen2 = document.querySelector(".screen2")
 
@@ -22,8 +25,7 @@ function handleTryClick(e) {
 
 // Eventos
 
-const btnTry = document.querySelector('#btnTry')
-const btnReset = document.querySelector('#btnReset')
+
 
 btnTry.addEventListener('click', handleTryClick)
 btnReset.addEventListener('click', function()  {
