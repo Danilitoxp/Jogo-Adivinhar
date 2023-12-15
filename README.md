@@ -14,7 +14,7 @@
 
 Aplicação Web com objetivo de estudos em javascript com a manipulação de elementos com a DOM
 
-- [Acesse o projeto](https://gerador-descricao.vercel.app/)
+- [Acesse o projeto](https://jogo-adivinhar-pi.vercel.app/)
 
 ## 🚀 Tecnologias
 
